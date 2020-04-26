@@ -10,6 +10,6 @@ def toadstool
   puts $status
 end
 
-puts status
-# mario
-# toadstool
+
+mario
+toadstool
